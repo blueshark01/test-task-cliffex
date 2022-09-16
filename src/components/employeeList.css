@@ -1,0 +1,10 @@
+.employeeList{
+    margin: 40px;
+}
+
+
+.employeeList__addButton{
+    float: right;
+    margin-bottom: 20px !important;
+}
+
